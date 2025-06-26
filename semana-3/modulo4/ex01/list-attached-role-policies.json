@@ -1,0 +1,8 @@
+{
+    "AttachedPolicies": [
+        {
+            "PolicyName": "StudentPolicyDay04",
+            "PolicyArn": "arn:aws:iam::992846590112:policy/StudentPolicyDay04"
+        }
+    ]
+}

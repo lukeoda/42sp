@@ -1,0 +1,1 @@
+aws s3 cp users/ s3://42sp-lkenji-o-bucket/ --recursive

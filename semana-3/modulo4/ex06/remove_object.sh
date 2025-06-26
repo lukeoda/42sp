@@ -1,0 +1,1 @@
+aws s3 rm s3://42sp-lkenji-o-bucket/users.csv 
