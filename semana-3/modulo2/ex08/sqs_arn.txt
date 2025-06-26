@@ -1,0 +1,1 @@
+arn:aws:sqs:us-east-1:992846590112:42sp-lkenji-o-queue

@@ -1,0 +1,64 @@
+HTTP/2 200 
+date: Mon, 19 May 2025 13:41:51 GMT
+content-type: application/json; charset=utf-8
+content-length: 1357
+cache-control: private, max-age=60, s-maxage=60
+vary: Accept, Authorization, Cookie, X-GitHub-OTP,Accept-Encoding, Accept, X-Requested-With
+etag: "8efa43bc85da4afb63e38733fe8011d72462a3472171d8332d3c9a0ad92e4f76"
+last-modified: Mon, 17 Mar 2025 21:49:16 GMT
+x-oauth-scopes: admin:org, delete:packages, notifications, repo, user, workflow, write:packages
+x-accepted-oauth-scopes: 
+github-authentication-token-expiration: 2025-06-18 13:40:57 UTC
+x-github-media-type: github.v3; format=json
+x-github-api-version-selected: 2022-11-28
+x-ratelimit-limit: 5000
+x-ratelimit-remaining: 4999
+x-ratelimit-reset: 1747665711
+x-ratelimit-used: 1
+x-ratelimit-resource: core
+access-control-expose-headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+access-control-allow-origin: *
+strict-transport-security: max-age=31536000; includeSubdomains; preload
+x-frame-options: deny
+x-content-type-options: nosniff
+x-xss-protection: 0
+referrer-policy: origin-when-cross-origin, strict-origin-when-cross-origin
+content-security-policy: default-src 'none'
+server: github.com
+x-github-request-id: 374D:7D68F:66ABA4:7AD24D:682B351F
+
+{
+  "login": "torvalds",
+  "id": 1024025,
+  "node_id": "MDQ6VXNlcjEwMjQwMjU=",
+  "avatar_url": "https://avatars.githubusercontent.com/u/1024025?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/torvalds",
+  "html_url": "https://github.com/torvalds",
+  "followers_url": "https://api.github.com/users/torvalds/followers",
+  "following_url": "https://api.github.com/users/torvalds/following{/other_user}",
+  "gists_url": "https://api.github.com/users/torvalds/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/torvalds/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/torvalds/subscriptions",
+  "organizations_url": "https://api.github.com/users/torvalds/orgs",
+  "repos_url": "https://api.github.com/users/torvalds/repos",
+  "events_url": "https://api.github.com/users/torvalds/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/torvalds/received_events",
+  "type": "User",
+  "user_view_type": "public",
+  "site_admin": false,
+  "name": "Linus Torvalds",
+  "company": "Linux Foundation",
+  "blog": "",
+  "location": "Portland, OR",
+  "email": null,
+  "hireable": null,
+  "bio": null,
+  "twitter_username": null,
+  "public_repos": 8,
+  "public_gists": 0,
+  "followers": 234810,
+  "following": 0,
+  "created_at": "2011-09-03T15:26:22Z",
+  "updated_at": "2025-03-17T21:49:16Z"
+}
